@@ -1,0 +1,42 @@
+PTE display total
+PTE display total
+PTE sonnum 业务部
+PTE sonnum 网络直播部
+PTE grandsonnum 职业发展管理会
+PTE grandsinnum 职业发展管理会
+PTE grandsonnum 职业发展管理会
+PTE allsonnum 职业发展管理会
+PTE allnum TC公司
+PTE allnum TC公司
+PTE parent 总经办
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE delete 总经办
+PTE display total
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE parent 行政体系
+PTE delete 总经办
+PTE parent 行政体系
+PTE delete 总经办
+PTE parent 行政体系
+PTE nodenum
+PTE delete 总经办
+PTE display total
+PTE display TC公司
+PTE delete TC公司
+PTE delete 总经办
+PTE display total
+PTE delete 总经办
+PTE display total
+PTE nodenum
+PTE parent 企业发展系统
+PTE delete TC公司
+PTE delete TC公司
+PTE delete TC公司
+PTE delete TC公司
+PTE display total
+PTE display total
+PTE display total

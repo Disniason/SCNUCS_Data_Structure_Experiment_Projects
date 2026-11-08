@@ -1,0 +1,55 @@
+PTE display total
+PTE exit
+PTE exit
+PTE exit
+PTE display total
+PTE display 总经办
+PTE output total H:\zhy\project\Program for Tree Expriment
+PTE output total H:\zhy\project\Program for Tree Expriment
+PTE output total H:\zhy\project\Program_for_Tree_Expriment
+PTE output total H:\zhy\project
+PTE exit
+PTE exit
+PTE output total H:\zhy\project\Program_for_Tree_Expriment
+PTE sonnum 总经办
+PTE grandsonnum 总经办
+PTE allsonnum 总经办
+PTE allnum TC公司
+PTE parent 企业发展系统
+PTE parent TC公司
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE delete 总经办
+PTE display total
+PTE exit
+PTE display total
+PTE display 总经办
+PTE output total H:\zhy\project\Program_for_Tree_Expriment
+PTE sonnum 总经办
+PTE grandsonnum 总经办
+PTE allsonnum 总经办
+PTE allnum TC公司
+PTE parent TC公司
+PTE parent 企业发展系统
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE delete 总经办
+PTE display total
+PTE exit
+PTE display total
+PTE display 总经办
+PTE output total H:\zhy\project\Program_for_Tree_Expriment
+PTE sonnum 总经办
+PTE grandsonnum 总经办
+PTE allsonnum 总经办
+PTE allnum 总经办
+PTE parent 总经办
+PTE parent TC公司
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE delete 总经办
+PTE display total
+PTE exit

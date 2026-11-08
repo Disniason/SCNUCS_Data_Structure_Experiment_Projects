@@ -1,0 +1,32 @@
+PTE display total
+PTE output total H:\zhy\project\Program_for_Tree_Expriment
+PTE sonnum 职能系统
+PTE grandsonnum 职能系统
+PTE allsonnum 职能系统
+PTE exit
+PTE display total
+PTE allsonnum 职能系统
+PTE allnum 职能系统
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE employeenum
+PTE nodenum
+PTE exit
+PTE display total
+PTE display 总经办
+PTE output total H:\zhy\project\Program_for_Tree_Expriment
+PTE sonnum 企业发展系统
+PTE sonnum 职能系统
+PTE grandsonnum 职能系统
+PTE allsonnum 职能系统
+PTE allnum 职能系统
+PTE parent 职能系统
+PTE nodenum
+PTE employeenum
+PTE leafnum
+PTE delete 总经办
+PTE display total
+PTE exit
+PTE allsonnum 总经办
+PTE exit
